@@ -1,10 +1,14 @@
+# 100 Days of Python 🐍
 
+Welcome to my **100 Days of Python** challenge!  
+This repo documents my learning journey through daily coding challenges, projects, and experiments with Python.
 
 ### 📅 Started: [YYYY-MM-DD]  TBD
 ### 🏁 Goal: Complete 100 Days of Python by [target end date] TBD
 
 ---
 
+## 🔥 Why I'm Doing This
 
 - Improve my Python skills for automation, game dev, and cybersecurity
 - Build a portfolio of projects
