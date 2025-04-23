@@ -1,0 +1,6 @@
+| Day 1 | Python Basics + Printing
+
+Overall day 1 was easy, I have a grasp on the basics of not only programming, but python, 
+so I did a few functions to print to the console, hard coded and with user input. I also 
+did a simple addition function with 2 numbers inputed by the user. I figure the first few days 
+will be quite easy, so I may do more then 1 day per day during this time, and finish sooner!

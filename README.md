@@ -3,8 +3,8 @@
 Welcome to my **100 Days of Python** challenge!  
 This repo documents my learning journey through daily coding challenges, projects, and experiments with Python.
 
-### 📅 Started: [YYYY-MM-DD]  TBD
-### 🏁 Goal: Complete 100 Days of Python by [target end date] TBD
+### 📅 Started: [2025-04-23]
+### 🏁 Goal: Complete 100 Days of Python by [2028-08-01]
 
 ---
 
@@ -20,7 +20,7 @@ This repo documents my learning journey through daily coding challenges, project
 ✅🔜
 | Day | Topic                                 | Status |
 |-----|----------------------------------------|--------|
-| 1   | Python Basics + Printing              | 🔜      |
+| 1   | Python Basics + Printing              | ✅      |
 | 2   | Variables & Input                     | 🔜      |
 | 3   | Conditionals                          | 🔜      |
 | 4   | Loops                                 | 🔜      |
