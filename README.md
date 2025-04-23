@@ -1,26 +1,15 @@
-# 🚀 100 Days of JavaScript Challenge
 
-## 👤 About Me
-I'm currently studying Computer Science and launching my own web development business. I'm using this challenge to strengthen my JavaScript skills—both core concepts and frameworks—and apply them to real-world projects like apps, games, and full-stack web applications. This is a solo commitment to build consistency, deepen understanding, and level up as a developer. 💪
 
 ---
 
-## 📅 Challenge Rules
-- 💻 Code every day for 100 days
-- 🔥 Use **only JavaScript** (plus basic HTML/CSS for visuals)
-- 📚 Learn both core JavaScript and frameworks (React, Node.js, etc.)
-- ✅ Mark days as complete, 🛠️ for in-progress, and ✨ for "coming soon"
-- 🚀 Build something with every new concept learned
+### 📅 Started: [YYYY-MM-DD]  TBD
+### 🏁 Goal: Complete 100 Days of Python by [target end date] TBD
 
 ---
 
 ## 📘 100 Days Plan
 
 ### Week 1: JavaScript Basics
-| Day | Topic | Status | Learn From |
-|-----|--------|--------|------------|
-| 1   | What is JavaScript? + Setup | ✅ | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [W3Schools](https://www.w3schools.com/js/) |
-| 2   | Variables & Data Types | 🛠️ | MDN, W3Schools |
 | 3   | Operators & Expressions | ✨ | MDN, JavaScript.info |
 | 4   | Conditionals (if, else, ternary) | ✨ | MDN |
 | 5   | Loops (for, while) | ✨ | MDN, JavaScript.info |
@@ -124,58 +113,126 @@ I'm currently studying Computer Science and launching my own web development bus
 | 67  | Deploying Full-Stack App | ✨ | YouTube |
 | 68  | Project: E-Commerce Cart (Full Stack) | ✨ | Practice |
 | 69  | Testing Full-Stack Apps | ✨ | YouTube |
-| 70  | Review or Polishing | ✨ | - |
 
-### Week 11: Advanced Frontend
-| Day | Topic | Status | Learn From |
-|-----|--------|--------|------------|
-| 71  | Advanced React Patterns | ✨ | React.dev |
-| 72  | Hooks for Forms | ✨ | React.dev |
-| 73  | Styled Components | ✨ | YouTube |
-| 74  | React Testing Library | ✨ | YouTube |
 | 75  | Project: Real-Time Chat App | ✨ | YouTube |
 | 76  | Integrating WebSockets | ✨ | YouTube |
-| 77  | Review or Bugfixing | ✨ | - |
-
-### Week 12: Deployment & Hosting
-| Day | Topic | Status | Learn From |
-|-----|--------|--------|------------|
-| 78  | Deployment Overview | ✨ | YouTube |
-| 79  | Deploying with Netlify & Vercel | ✨ | Netlify Docs |
-| 80  | Deploying Node.js with Heroku | ✨ | Heroku Docs |
 | 81  | CI/CD for Frontend & Backend | ✨ | GitHub Actions Docs |
 | 82  | Project: Final Full-Stack App | ✨ | Practice |
 | 83  | Deployment Testing | ✨ | Practice |
 | 84  | Review or Polishing | ✨ | - |
-
-### Week 13: Final Projects & Portfolio
-| Day | Topic | Status | Learn From |
-|-----|--------|--------|------------|
-| 85  | Building a Portfolio | ✨ | YouTube |
-| 86  | Capstone Project: SaaS App | ✨ | Practice |
-| 87  | Building a Personal Blog | ✨ | Practice |
-| 88  | Final Adjustments to Portfolio | ✨ | - |
-| 89  | Polishing Projects for GitHub | ✨ | - |
-| 90  | Review of All Projects | ✨ | - |
-| 91  | Update Resume & LinkedIn | ✨ | - |
-
-### Week 14: Reflect & Share
-| Day | Topic | Status | Learn From |
-|-----|--------|--------|------------|
-| 92  | Final Reflection on the 100 Days | ✨ | - |
-| 93  | Share Projects on GitHub | ✨ | - |
-| 94  | Share Projects on LinkedIn | ✨ | - |
-| 95  | Share Projects on Dev.to | ✨ | - |
-| 96  | Code Refactoring & Optimization | ✨ | - |
-| 97  | Mentor Others or Teach | ✨ | - |
-| 98  | Plan Next Steps in Learning | ✨ | - |
-| 99  | Set New Goals for the Future | ✨ | - |
-| 100 | Celebrate! | ✨ | - |
+- Improve my Python skills for automation, game dev, and cybersecurity
+- Build a portfolio of projects
+- Level up as a developer and student
 
 ---
 
-## 📅 Milestones
-- Week 1-2: Get comfortable with JavaScript basics and DOM manipulation.
-- Week 3-5: Move into React, Node.js, and APIs.
-- Week 6-7: Build and deploy full-stack applications.
-- Week 8-14: Polish your projects, build a portfolio, and start sharing your work.
+## 🧭 Progress
+✅🔜
+| Day | Topic                                 | Status |
+|-----|----------------------------------------|--------|
+| 1   | Python Basics + Printing              | 🔜      |
+| 2   | Variables & Input                     | 🔜      |
+| 3   | Conditionals                          | 🔜      |
+| 4   | Loops                                 | 🔜      |
+| 5   | Functions                             | 🔜      |
+| 6   | Lists + Indexing                      | 🔜      |
+| 7   | Dictionaries                          | 🔜      |
+| 8   | File Handling                         | 🔜      |
+| 9   | Practice/Review                       | 🔜      |
+| 10  | Project — Contact List App            | 🔜      |
+| 11  | Excel: openpyxl Intro                 | 🔜      |
+| 12  | Reading Excel Files                   | 🔜      |
+| 13  | Writing Excel Files                   | 🔜      |
+| 14  | Formatting + Styles                   | 🔜      |
+| 15  | Charts + Formulas                     | 🔜      |
+| 16  | Working with CSVs                     | 🔜      |
+| 17  | Filtering + Cleaning Data             | 🔜      |
+| 18  | Excel + CSV Combined                  | 🔜      |
+| 19  | Automation Scripts                    | 🔜      |
+| 20  | Project — Excel Report Generator      | 🔜      |
+| 21  | OOP Basics                            | 🔜      |
+| 22  | Classes + Constructors                | 🔜      |
+| 23  | Inventory System                      | 🔜      |
+| 24  | Combat System Basics                  | 🔜      |
+| 25  | Enemies + RNG                         | 🔜      |
+| 26  | XP + Leveling                         | 🔜      |
+| 27  | Save/Load Game                        | 🔜      |
+| 28  | Menus / ASCII Art UI                  | 🔜      |
+| 29  | Combat Polish                         | 🔜      |
+| 30  | Project — Tales of Krendor RPG        | 🔜      |
+| 31  | CLI Tools: os module                  | 🔜      |
+| 32  | argparse & CLI flags                  | 🔜      |
+| 33  | Backup Script                         | 🔜      |
+| 34  | Batch File Rename                     | 🔜      |
+| 35  | File Organizer                        | 🔜      |
+| 36  | datetime + logs                       | 🔜      |
+| 37  | .env + Secrets Mgmt                   | 🔜      |
+| 38  | Scheduling Tasks                      | 🔜      |
+| 39  | Package CLI Tool                      | 🔜      |
+| 40  | Project — Personal CLI Toolkit        | 🔜      |
+| 41  | Python Networking                     | 🔜      |
+| 42  | IP + Host Info                        | 🔜      |
+| 43  | Port Scanner                          | 🔜      |
+| 44  | Brute-force Script                    | 🔜      |
+| 45  | Password Generator                    | 🔜      |
+| 46  | Keylogger (Basics)                    | 🔜      |
+| 47  | Network Sniffing                      | 🔜      |
+| 48  | Nmap + Python                         | 🔜      |
+| 49  | Threading Basics                      | 🔜      |
+| 50  | Project — NetScan Toolkit             | 🔜      |
+| 51  | requests Module                       | 🔜      |
+| 52  | BeautifulSoup Basics                  | 🔜      |
+| 53  | Scraping News                         | 🔜      |
+| 54  | Price Scraping                        | 🔜      |
+| 55  | Selenium Setup                        | 🔜      |
+| 56  | Form Autofill                         | 🔜      |
+| 57  | Navigation w/ Selenium                | 🔜      |
+| 58  | File Download Bot                     | 🔜      |
+| 59  | Data → Excel Export                   | 🔜      |
+| 60  | Project — Price Tracker Bot           | 🔜      |
+| 61  | REST APIs                             | 🔜      |
+| 62  | Use Open API (Weather, Pokémon)       | 🔜      |
+| 63  | JSON Parsing                          | 🔜      |
+| 64  | Flask Intro                           | 🔜      |
+| 65  | Flask + HTML Templates                | 🔜      |
+| 66  | Forms in Flask                        | 🔜      |
+| 67  | Data Persistence                      | 🔜      |
+| 68  | Dashboard Project Start               | 🔜      |
+| 69  | Deploy Flask                          | 🔜      |
+| 70  | Project — Flask Web Dashboard         | 🔜      |
+| 71  | pandas Intro                          | 🔜      |
+| 72  | Read Large Datasets                   | 🔜      |
+| 73  | Clean + Filter Data                   | 🔜      |
+| 74  | Analyze Trends                        | 🔜      |
+| 75  | matplotlib Graphs                     | 🔜      |
+| 76  | seaborn Graphs                        | 🔜      |
+| 77  | Histos, Bars, Lines                   | 🔜      |
+| 78  | Multi-plot Reports                    | 🔜      |
+| 79  | Export Charts                         | 🔜      |
+| 80  | Project — Data Analyzer App           | 🔜      |
+| 81  | Discord Bots                          | 🔜      |
+| 82  | Bot Commands + Replies                | 🔜      |
+| 83  | RPG Bot Features                      | 🔜      |
+| 84  | Telegram Bot or CLI Version           | 🔜      |
+| 85  | Chatbot Logic                         | 🔜      |
+| 86  | ChatterBot / Transformers             | 🔜      |
+| 87  | Bot Memory                            | 🔜      |
+| 88  | Data-Driven Bot                       | 🔜      |
+| 89  | Personality Layer                     | 🔜      |
+| 90  | Project — AI ChatBot                  | 🔜      |
+| 91  | Final Project Planning                | 🔜      |
+| 92  | Setup + Environment                   | 🔜      |
+| 93  | Plan Features                         | 🔜      |
+| 94  | Core Feature Build                    | 🔜      |
+| 95  | Second Feature Build                  | 🔜      |
+| 96  | Polish UI + UX                        | 🔜      |
+| 97  | Extra Features                        | 🔜      |
+| 98  | Write Documentation                   | 🔜      |
+| 99  | Testing + QA                          | 🔜      |
+| 100 | Final Project — Launch Day!           | 🔜      |
+
+
+## 🗂️ Folder Structure
+
+Each day has its own directory:
+
