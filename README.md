@@ -19,8 +19,8 @@ I'm currently studying Computer Science and launching my own web development bus
 ### Week 1: JavaScript Basics
 | Day | Topic | Status | Learn From |
 |-----|--------|--------|------------|
-| 1   | What is JavaScript? + Setup | ✨ | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [W3Schools](https://www.w3schools.com/js/) |
-| 2   | Variables & Data Types | ✨ | MDN, W3Schools |
+| 1   | What is JavaScript? + Setup | ✅ | [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [W3Schools](https://www.w3schools.com/js/) |
+| 2   | Variables & Data Types | 🛠️ | MDN, W3Schools |
 | 3   | Operators & Expressions | ✨ | MDN, JavaScript.info |
 | 4   | Conditionals (if, else, ternary) | ✨ | MDN |
 | 5   | Loops (for, while) | ✨ | MDN, JavaScript.info |

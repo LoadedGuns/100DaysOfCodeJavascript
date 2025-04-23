@@ -1,0 +1,11 @@
+Day one was simple, just read over some basics of javascript and wrote a simple hello world program
+
+I found out that javascript isnt built to handle simple console line input functions such as assigning a var through a prompt, 
+So Ill need to find a neat work around for this
+
+I got node.js setup so I could run scripts in VSC. learned a little about npm in doing so.
+
+Im not sure where I want to take the final project using everything I learn over the next 100 days, but Im thinking about the web browser game
+I started, its following my normal "Tales Of Krendor" but its sorta melvor Idle style, I think thats the plan!
+
+Also setup my gitignore so it doesnt push any node mods and unneeded json files.
