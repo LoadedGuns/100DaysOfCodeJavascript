@@ -18,108 +18,109 @@ This repo documents my learning journey through daily coding challenges, project
 
 ## 🧭 Progress
 ✅🔜
-| Day | Topic                                 | Status |
-|-----|----------------------------------------|--------|
-| 1   | Python Basics + Printing              | ✅      |
-| 2   | Variables & Input                     | 🔜      |
-| 3   | Conditionals                          | 🔜      |
-| 4   | Loops                                 | 🔜      |
-| 5   | Functions                             | 🔜      |
-| 6   | Lists + Indexing                      | 🔜      |
-| 7   | Dictionaries                          | 🔜      |
-| 8   | File Handling                         | 🔜      |
-| 9   | Practice/Review                       | 🔜      |
-| 10  | Project — Contact List App            | 🔜      |
-| 11  | Excel: openpyxl Intro                 | 🔜      |
-| 12  | Reading Excel Files                   | 🔜      |
-| 13  | Writing Excel Files                   | 🔜      |
-| 14  | Formatting + Styles                   | 🔜      |
-| 15  | Charts + Formulas                     | 🔜      |
-| 16  | Working with CSVs                     | 🔜      |
-| 17  | Filtering + Cleaning Data             | 🔜      |
-| 18  | Excel + CSV Combined                  | 🔜      |
-| 19  | Automation Scripts                    | 🔜      |
-| 20  | Project — Excel Report Generator      | 🔜      |
-| 21  | OOP Basics                            | 🔜      |
-| 22  | Classes + Constructors                | 🔜      |
-| 23  | Inventory System                      | 🔜      |
-| 24  | Combat System Basics                  | 🔜      |
-| 25  | Enemies + RNG                         | 🔜      |
-| 26  | XP + Leveling                         | 🔜      |
-| 27  | Save/Load Game                        | 🔜      |
-| 28  | Menus / ASCII Art UI                  | 🔜      |
-| 29  | Combat Polish                         | 🔜      |
-| 30  | Project — Tales of Krendor RPG        | 🔜      |
-| 31  | CLI Tools: os module                  | 🔜      |
-| 32  | argparse & CLI flags                  | 🔜      |
-| 33  | Backup Script                         | 🔜      |
-| 34  | Batch File Rename                     | 🔜      |
-| 35  | File Organizer                        | 🔜      |
-| 36  | datetime + logs                       | 🔜      |
-| 37  | .env + Secrets Mgmt                   | 🔜      |
-| 38  | Scheduling Tasks                      | 🔜      |
-| 39  | Package CLI Tool                      | 🔜      |
-| 40  | Project — Personal CLI Toolkit        | 🔜      |
-| 41  | Python Networking                     | 🔜      |
-| 42  | IP + Host Info                        | 🔜      |
-| 43  | Port Scanner                          | 🔜      |
-| 44  | Brute-force Script                    | 🔜      |
-| 45  | Password Generator                    | 🔜      |
-| 46  | Keylogger (Basics)                    | 🔜      |
-| 47  | Network Sniffing                      | 🔜      |
-| 48  | Nmap + Python                         | 🔜      |
-| 49  | Threading Basics                      | 🔜      |
-| 50  | Project — NetScan Toolkit             | 🔜      |
-| 51  | requests Module                       | 🔜      |
-| 52  | BeautifulSoup Basics                  | 🔜      |
-| 53  | Scraping News                         | 🔜      |
-| 54  | Price Scraping                        | 🔜      |
-| 55  | Selenium Setup                        | 🔜      |
-| 56  | Form Autofill                         | 🔜      |
-| 57  | Navigation w/ Selenium                | 🔜      |
-| 58  | File Download Bot                     | 🔜      |
-| 59  | Data → Excel Export                   | 🔜      |
-| 60  | Project — Price Tracker Bot           | 🔜      |
-| 61  | REST APIs                             | 🔜      |
-| 62  | Use Open API (Weather, Pokémon)       | 🔜      |
-| 63  | JSON Parsing                          | 🔜      |
-| 64  | Flask Intro                           | 🔜      |
-| 65  | Flask + HTML Templates                | 🔜      |
-| 66  | Forms in Flask                        | 🔜      |
-| 67  | Data Persistence                      | 🔜      |
-| 68  | Dashboard Project Start               | 🔜      |
-| 69  | Deploy Flask                          | 🔜      |
-| 70  | Project — Flask Web Dashboard         | 🔜      |
-| 71  | pandas Intro                          | 🔜      |
-| 72  | Read Large Datasets                   | 🔜      |
-| 73  | Clean + Filter Data                   | 🔜      |
-| 74  | Analyze Trends                        | 🔜      |
-| 75  | matplotlib Graphs                     | 🔜      |
-| 76  | seaborn Graphs                        | 🔜      |
-| 77  | Histos, Bars, Lines                   | 🔜      |
-| 78  | Multi-plot Reports                    | 🔜      |
-| 79  | Export Charts                         | 🔜      |
-| 80  | Project — Data Analyzer App           | 🔜      |
-| 81  | Discord Bots                          | 🔜      |
-| 82  | Bot Commands + Replies                | 🔜      |
-| 83  | RPG Bot Features                      | 🔜      |
-| 84  | Telegram Bot or CLI Version           | 🔜      |
-| 85  | Chatbot Logic                         | 🔜      |
-| 86  | ChatterBot / Transformers             | 🔜      |
-| 87  | Bot Memory                            | 🔜      |
-| 88  | Data-Driven Bot                       | 🔜      |
-| 89  | Personality Layer                     | 🔜      |
-| 90  | Project — AI ChatBot                  | 🔜      |
-| 91  | Final Project Planning                | 🔜      |
-| 92  | Setup + Environment                   | 🔜      |
-| 93  | Plan Features                         | 🔜      |
-| 94  | Core Feature Build                    | 🔜      |
-| 95  | Second Feature Build                  | 🔜      |
-| 96  | Polish UI + UX                        | 🔜      |
-| 97  | Extra Features                        | 🔜      |
-| 98  | Write Documentation                   | 🔜      |
-| 99  | Testing + QA                          | 🔜      |
-| 100 | Final Project — Launch Day!           | 🔜      |
+| Day | Topic                                                                 | Status |
+|-----|-----------------------------------------------------------------------|--------|
+| 1   | Working with Variables in Python to Manage Data                      | ✅      |
+| 2   | Understanding Data Types and How to Manipulate Strings               | 🔜      |
+| 3   | Control Flow and Logical Operators                                   | 🔜      |
+| 4   | Randomisation and Python Lists                                       | 🔜      |
+| 5   | Python Loops                                                         | 🔜      |
+| 6   | Python Functions & Karel                                             | 🔜      |
+| 7   | Hangman Game - Project                                               | 🔜      |
+| 8   | Function Parameters & Caesar Cipher                                  | 🔜      |
+| 9   | Dictionaries, Nesting and the Secret Auction                         | 🔜      |
+| 10  | Functions with Outputs                                               | 🔜      |
+| 11  | The Blackjack Capstone Project                                       | 🔜      |
+| 12  | Scope & Number Guessing Game                                         | 🔜      |
+| 13  | Debugging: How to Find and Fix Errors in Your Code                   | 🔜      |
+| 14  | Higher Lower Game - Final Project for Beginner Section               | 🔜      |
+| 15  | Local Development Environment Setup & the Coffee Machine OOP Project | 🔜      |
+| 16  | Object-Oriented Programming (OOP)                                    | 🔜      |
+| 17  | The Quiz Project & the Benefits of OOP                               | 🔜      |
+| 18  | Turtle Graphics – Drawing Shapes                                     | 🔜      |
+| 19  | Instances, State, and Higher Order Functions                         | 🔜      |
+| 20  | Build Snake Game Part 1: Animation & Coordinates                     | 🔜      |
+| 21  | Build Snake Game Part 2: Inheritance & List Slicing                  | 🔜      |
+| 22  | Pong Game – Build the Famous Arcade Game                             | 🔜      |
+| 23  | The Turtle Crossing Capstone Project                                 | 🔜      |
+| 24  | Files, Directories and Paths                                         | 🔜      |
+| 25  | Working with CSV Data and the Pandas Library                         | 🔜      |
+| 26  | List Comprehension and the NATO Alphabet                             | 🔜      |
+| 27  | Tkinter, *args, **kwargs and Creating GUI Programs                   | 🔜      |
+| 28  | Tkinter and the Pomodoro GUI Application                             | 🔜      |
+| 29  | Password Manager GUI App with Tkinter                                | 🔜      |
+| 30  | Improving the Password Manager with JSON and Error Handling          | 🔜      |
+| 31  | Flash Card App Capstone Project                                      | 🔜      |
+| 32  | Sending Emails (smtplib) & Working with DateTime                     | 🔜      |
+| 33  | Working with APIs – ISS Overhead Notifier                            | 🔜      |
+| 34  | API Practice – GUI-based Quiz App                                    | 🔜      |
+| 35  | API Keys, Authentication & Environment Variables                     | 🔜      |
+| 36  | Stock Trading News Alert App                                         | 🔜      |
+| 37  | Habit Tracking App – POST Requests & APIs                            | 🔜      |
+| 38  | Google Sheets API Workout Tracking                                   | 🔜      |
+| 39  | Flight Deal Finder Project – Part 1                                  | 🔜      |
+| 40  | Flight Club Project – Part 2                                         | 🔜      |
+| 41  | HTML Foundations                                                     | 🔜      |
+| 42  | Intermediate HTML & Best Practices                                   | 🔜      |
+| 43  | Intro to CSS – Styling Your Web Pages                                | 🔜      |
+| 44  | Intermediate CSS – Flexbox, Grid, Responsive                         | 🔜      |
+| 45  | Web Scraping with Beautiful Soup                                     | 🔜      |
+| 46  | Spotify Playlist from Time Machine Project                           | 🔜      |
+| 47  | Amazon Price Tracker Project                                         | 🔜      |
+| 48  | Selenium WebDriver Browser and Game Playing Bot                      | 🔜      |
+| 49  | Automate LinkedIn Job Applications with Selenium                     | 🔜      |
+| 50  | Tinder Swiping Bot                                                   | 🔜      |
+| 51  | Internet Speed Twitter Complaint Bot                                 | 🔜      |
+| 52  | Instagram Follower Bot                                               | 🔜      |
+| 53  | Web Scraping Capstone – Data Entry Automation                        | 🔜      |
+| 54  | Flask Web Development Intro                                          | 🔜      |
+| 55  | HTML & URL Routing with Flask – Higher/Lower Game                    | 🔜      |
+| 56  | HTML Templates & Static Files in Flask                               | 🔜      |
+| 57  | Jinja Templating in Flask                                            | 🔜      |
+| 58  | Using Bootstrap in Flask                                             | 🔜      |
+| 59  | Blog Capstone Project – Styling with Bootstrap                       | 🔜      |
+| 60  | Flask Forms and POST Requests                                        | 🔜      |
+| 61  | WTForms & Validations in Flask                                       | 🔜      |
+| 62  | Coffee & Wifi Site Project (WTForms, CSV)                            | 🔜      |
+| 63  | SQLite Databases and SQLAlchemy ORM                                  | 🔜      |
+| 64  | Top 10 Movies App with SQLAlchemy                                    | 🔜      |
+| 65  | How to Design a Great Website                                        | 🔜      |
+| 66  | RESTful Routing and API Design                                       | 🔜      |
+| 67  | Blog Capstone – Add RESTful API Routes                               | 🔜      |
+| 68  | Flask User Authentication (Login, Register)                          | 🔜      |
+| 69  | Blog Capstone – Add Users & Comments                                 | 🔜      |
+| 70  | Git and GitHub Version Control                                       | 🔜      |
+| 71  | Deployment – Render, Heroku, etc.                                    | 🔜      |
+| 72  | Data Analysis with Pandas – Salary vs Major                          | 🔜      |
+| 73  | Data Visualization with Matplotlib – Popular Languages               | 🔜      |
+| 74  | Aggregation with Pandas – LEGO Dataset                               | 🔜      |
+| 75  | Time Series Analysis – Google Trends                                 | 🔜      |
+| 76  | Plotly Charts – Android App Store Analysis                           | 🔜      |
+| 77  | NumPy for Efficient Calculations                                     | 🔜      |
+| 78  | Seaborn & Linear Regression Analysis                                 | 🔜      |
+| 79  | Machine Learning with Scikit-Learn – Iris Classifier                 | 🔜      |
+| 80  | Decision Trees and Random Forests                                    | 🔜      |
+| 81  | SVMs and Feature Scaling                                             | 🔜      |
+| 82  | Clustering Algorithms – KMeans                                       | 🔜      |
+| 83  | Natural Language Processing (NLP) Basics                             | 🔜      |
+| 84  | Spam Detection with NLP                                              | 🔜      |
+| 85  | Image Classification with TensorFlow                                 | 🔜      |
+| 86  | Neural Networks for Handwritten Digit Recognition                    | 🔜      |
+| 87  | Convolutional Neural Networks (CNNs)                                 | 🔜      |
+| 88  | Image Augmentation and CNN Practice                                  | 🔜      |
+| 89  | Transfer Learning for Image Classification                           | 🔜      |
+| 90  | AI Capstone Project – Food Classifier                                | 🔜      |
+| 91  | Capstone Finalization & Debugging                                    | 🔜      |
+| 92  | Review All 100 Days – Debug, Refactor, Organize                      | 🔜      |
+| 93  | Build Your Developer Portfolio Website                               | 🔜      |
+| 94  | Resume, LinkedIn, and Portfolio Review                               | 🔜      |
+| 95  | Open Source Contribution Tips                                        | 🔜      |
+| 96  | Interview Prep & Python Challenge                                    | 🔜      |
+| 97  | System Design Basics & Mock Interviews                               | 🔜      |
+| 98  | Freelancing & Side Projects                                          | 🔜      |
+| 99  | Becoming a Software Developer Advice                                 | 🔜      |
+| 100 | Final Reflections & Future Roadmap                                   | 🔜      |
+
 
 
 ## 🗂️ Folder Structure
