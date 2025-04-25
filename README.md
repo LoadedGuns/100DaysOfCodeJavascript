@@ -21,7 +21,7 @@ This repo documents my learning journey through daily coding challenges, project
 | Day | Topic                                                                 | Status |
 |-----|-----------------------------------------------------------------------|--------|
 | 1   | Working with Variables in Python to Manage Data                      | ✅      |
-| 2   | Understanding Data Types and How to Manipulate Strings               | 🔜      |
+| 2   | Understanding Data Types and How to Manipulate Strings               | ✅      |
 | 3   | Control Flow and Logical Operators                                   | 🔜      |
 | 4   | Randomisation and Python Lists                                       | 🔜      |
 | 5   | Python Loops                                                         | 🔜      |
