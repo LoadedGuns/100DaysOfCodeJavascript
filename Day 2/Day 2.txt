@@ -1,0 +1,2 @@
+Day 2 was fairly easy as well, little bit of relearning a couple of things, but overall, 
+I remembered most of this from when I first touched on python!

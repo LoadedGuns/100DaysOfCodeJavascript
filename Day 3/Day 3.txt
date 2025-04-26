@@ -1,0 +1,4 @@
+Day 3 was also a bit easy to get going, Im very familiar with control flow, I had to relearn the setup for
+an if statement in python, Im used to other languages where you use brackets and what not haha!
+Towards the end of Day 3 it got a bit challenging to recall what I learned years back, so Im thinking day 4 is when it gets
+interesting for me haha!
